@@ -1,7 +1,7 @@
 # adventOfCode
 
 ## Master Repo for all advent of code 
-![Languages Used](https://skillicons.dev/icons?i=kotlin,go&perline=3)
+![Languages Used](https://skillicons.dev/icons?i=kotlin,go,cpp&perline=3)
 
 
 ### 2023
