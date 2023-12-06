@@ -4,3 +4,6 @@
 [submodule "advent-of-code-2023-go"]
 	path = advent-of-code-2023-go
 	url = git@github.com:dukendev/advent-of-code-2023-go.git
+[submodule "advent-of-code-2023-cpp"]
+	path = advent-of-code-2023-cpp
+	url = git@github.com:dukendev/advent-of-code-2023-cpp.git
