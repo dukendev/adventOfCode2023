@@ -7,3 +7,6 @@
 [submodule "advent-of-code-2023-cpp"]
 	path = advent-of-code-2023-cpp
 	url = git@github.com:dukendev/advent-of-code-2023-cpp.git
+[submodule "advent-of-code-2023-python"]
+	path = advent-of-code-2023-python
+	url = git@github.com:dukendev/advent-of-code-2023-python.git
